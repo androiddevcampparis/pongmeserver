@@ -1,0 +1,2 @@
+serviceClass: com.devcamp.server.client.GreetingService
+path: 46A63F901F0340659C0B3CF862815604.gwt.rpc
